@@ -1,2 +1,2 @@
 # Python-Tip-Calculator
-#Feel free to fork it!
+Feel free to fork it!
